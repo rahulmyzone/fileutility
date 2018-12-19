@@ -4,7 +4,7 @@
   <artifactId>com.fileutility</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>FileUtility</name>
-  
+  <packaging>war</packaging>
   <properties>
         <!-- https://maven.apache.org/general.html#encoding-warning -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
